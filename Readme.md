@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [SelectorStyles.css](./CS/WebSite/Styles/SelectorStyles.css)
+<!-- default file list end -->
 # ASPxGridView - How to apply jQuery selectors to DataCells' content
 
 
