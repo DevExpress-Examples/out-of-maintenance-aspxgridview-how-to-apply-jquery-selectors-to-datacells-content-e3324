@@ -7,6 +7,9 @@
 * [SelectorStyles.css](./CS/WebSite/Styles/SelectorStyles.css)
 <!-- default file list end -->
 # ASPxGridView - How to apply jQuery selectors to DataCells' content
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3324/)**
+<!-- run online end -->
 
 
 <p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/K18561">K18561: Using jQuery / jQuery UI libraries with DevExpress ASP.NET Controls / MVC Extensions</a> KB Article. Refer to the Article for an explanation.<br><br>This example illustrates how to attach jQuery selectors to ASPxGridView DataCells' content and keep selectors' functionality after grid's rendering is completely updated via a callback.</p>
