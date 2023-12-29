@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128533369/16.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3324)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * [SelectorStyles.css](./CS/WebSite/Styles/SelectorStyles.css)
 <!-- default file list end -->
 # ASPxGridView - How to apply jQuery selectors to DataCells' content
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3324/)**
-<!-- run online end -->
 
 
 <p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/K18561">K18561: Using jQuery / jQuery UI libraries with DevExpress ASP.NET Controls / MVC Extensions</a> KB Article. Refer to the Article for an explanation.<br><br>This example illustrates how to attach jQuery selectors to ASPxGridView DataCells' content and keep selectors' functionality after grid's rendering is completely updated via a callback.</p>
